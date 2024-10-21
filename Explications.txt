@@ -1,0 +1,6 @@
+Voici l'arborescence de l'API veuillez la suivre pour faire fonctionner le programme :
+Installer XAMPP pour créer un serveur local
+Ensuite dans C:/ accédez à xampp, puis htdocs et vous placerez les fichier suivants.
+Utilisez les même noms de fichier c'est a dire API_Valo -> API
+                                                        -> appli
+                                                           ->images
